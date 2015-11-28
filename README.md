@@ -7,6 +7,7 @@ The Arduino board I built contains the following:
 * A sound threshold sensor (sends a signal on loud sounds)
 * An LDR for estimating light conditions
 * A 433mhz transmitter to switch remote wall sockets
+* An IR LED for IR remotes
 
 This app does several things:
 
