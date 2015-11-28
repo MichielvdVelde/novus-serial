@@ -1,0 +1,32 @@
+{
+  "name": "novus-serial",
+  "version": "0.0.1",
+  "description": "Serial port communication for Arduino to Novus",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichielvdVelde/novus-serial.git"
+  },
+  "keywords": [
+      "novus",
+      "home automation",
+      "domotics",
+      "serial",
+      "arduino"
+  ],
+  "dependencies": {
+    "mqtt": "^1.6.0",
+    "novus-component": "^0.0.3",
+    "serialport": "^2.0.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michiel van der Velde <michiel@michielvdvelde.nl>",
+  "license": "MIT"
+  "bugs": {
+    "url": "https://github.com/MichielvdVelde/novus-serial/issues"
+  },
+  "homepage": "https://github.com/MichielvdVelde/novus-serial#readme"
+}
